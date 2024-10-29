@@ -21,7 +21,7 @@ Este proyecto es un escáner de puertos simple desarrollado en Python que utiliz
 
 ## USO ESCANEO UN SOLO PUERTO
   ```bash
-python3 main.py --t 192.168.1.1 --p 80 80 --single
+python3 main.py --t 192.168.1.1 --p 80 80 --s
  ```
 
 ## USO ESCANEO VARIOS PUERTOS
