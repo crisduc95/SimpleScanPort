@@ -16,6 +16,8 @@ Este proyecto es un escáner de puertos simple desarrollado en Python que utiliz
 
 ## OPCIONES
 - **--t**: target
+- **--p**: Rango de puertos.
+- **--s**: single
 
 ## USO ESCANEO UN SOLO PUERTO
   ```bash
