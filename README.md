@@ -14,5 +14,15 @@ Este proyecto es un escáner de puertos simple desarrollado en Python que utiliz
 - **argparse**
 - **socket**
 
+## USO ESCANEO UN SOLO PUERTO
   ```bash
-  pip install colorama
+python3 main.py --t 192.168.1.1 --p 80 80 --single
+ ```
+
+## USO ESCANEO VARIOS PUERTOS
+  ```bash
+python3 main.py --t 192.168.1.1 --p 20 100
+
+ ```
+
+  
