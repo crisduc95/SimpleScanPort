@@ -14,6 +14,9 @@ Este proyecto es un escáner de puertos simple desarrollado en Python que utiliz
 - **argparse**
 - **socket**
 
+## OPCIONES
+- **--t**: target
+
 ## USO ESCANEO UN SOLO PUERTO
   ```bash
 python3 main.py --t 192.168.1.1 --p 80 80 --single
